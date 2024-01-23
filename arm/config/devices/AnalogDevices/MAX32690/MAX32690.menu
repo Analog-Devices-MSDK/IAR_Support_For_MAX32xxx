@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<optionMenuItem>
+  <tag>MAX32690</tag>
+  <display>AnalogDevices MAX32690</display>
+  <data>$CUR_DIR$/MAX32690.i79</data>
+</optionMenuItem>

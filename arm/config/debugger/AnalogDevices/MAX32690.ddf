@@ -1,0 +1,81 @@
+;; Memory information ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; 
+;; Used to define address zones within the ARM address space (Memory). 
+;;
+;;   Name      may be almost anything
+;;   AdrSpace  must be Memory
+;;   StartAdr  start of memory block
+;;   EndAdr    end of memory block
+;;   AccType   type of access, read-only (R), read-write (RW) or SFR (W)
+
+[Memory]
+;;       Name                  AdrSpace    StartAdr    EndAdr      AccType   Width
+Memory = IROM1                   Memory      0x10000000  0x1033FFFF  R
+Memory = IRAM1                   Memory      0x20000000  0x2011FFFF  RW
+Memory = ADC                     Memory      0x40034000  0x40034FFF  W
+Memory = AES_KEY                 Memory      0x40005000  0x400053FF  W
+Memory = FCR                     Memory      0x40000800  0x40000BFF  W
+Memory = MCR                     Memory      0x40106C00  0x40106FFF  W
+Memory = CAN0                    Memory      0x40064000  0x40064FFF  W
+Memory = CAN1                    Memory      0x40065000  0x40065FFF  W
+Memory = CAN2                    Memory      0x00000000  0x00000FFF  W
+Memory = CTB                     Memory      0x40001000  0x40001FFF  W
+Memory = DMA                     Memory      0x40028000  0x40028FFF  W
+Memory = EMCC                    Memory      0x40033000  0x40033FFF  W
+Memory = FLC                     Memory      0x40029000  0x40029FFF  W
+Memory = HPB                     Memory      0x40039000  0x40039FFF  W
+Memory = GCR                     Memory      0x40000000  0x400003FF  W
+Memory = GCFR                    Memory      0x40005800  0x40005BFF  W
+Memory = LPGCR                   Memory      0x40006C00  0x40006FFF  W
+Memory = GPIO0                   Memory      0x40008000  0x40008FFF  W
+Memory = GPIO1                   Memory      0x40009000  0x40009FFF  W
+Memory = GPIO2                   Memory      0x4000A000  0x4000AFFF  W
+Memory = GPIO3                   Memory      0x40080400  0x400813FF  W
+Memory = I2C0                    Memory      0x4001D000  0x4001DFFF  W
+Memory = I2C1                    Memory      0x4001E000  0x4001EFFF  W
+Memory = I2C2                    Memory      0x4001F000  0x4001FFFF  W
+Memory = I2S                     Memory      0x40060000  0x40060FFF  W
+Memory = OWM                     Memory      0x4003D000  0x4003DFFF  W
+Memory = PUF                     Memory      0x40007000  0x400073FF  W
+Memory = PTG                     Memory      0x4003C000  0x4003C017  W
+Memory = PT                      Memory      0x4003C020  0x4003C02F  W
+Memory = PT1                     Memory      0x4003C040  0x4003C04F  W
+Memory = PT2                     Memory      0x4003C060  0x4003C06F  W
+Memory = PT3                     Memory      0x4003C080  0x4003C08F  W
+Memory = ICC0                    Memory      0x4002A000  0x4002A3FF  W
+Memory = PWRSEQ                  Memory      0x40006800  0x40006BFF  W
+Memory = LPCMP                   Memory      0x40088000  0x400883FF  W
+Memory = SEMA                    Memory      0x4003E000  0x4003EFFF  W
+Memory = RTC                     Memory      0x40106000  0x401063FF  W
+Memory = SIR                     Memory      0x40000400  0x400007FF  W
+Memory = TRIMSIR                 Memory      0x40005400  0x400057FF  W
+Memory = SMON                    Memory      0x40004000  0x400043FF  W
+Memory = SPIXR                   Memory      0x4003A000  0x4003AFFF  W
+Memory = SPIXFC                  Memory      0x40027000  0x40027FFF  W
+Memory = SPIXFC_FIFO             Memory      0x400BC000  0x400BCFFF  W
+Memory = SPIXFM                  Memory      0x40026000  0x40026FFF  W
+Memory = SPI0                    Memory      0x40046000  0x40046FFF  W
+Memory = SPI1                    Memory      0x40047000  0x40047FFF  W
+Memory = SPI2                    Memory      0x40048000  0x40048FFF  W
+Memory = TMR                     Memory      0x40010000  0x40010FFF  W
+Memory = TMR1                    Memory      0x40011000  0x40011FFF  W
+Memory = TMR2                    Memory      0x40012000  0x40012FFF  W
+Memory = TMR3                    Memory      0x40013000  0x40013FFF  W
+Memory = TMR4                    Memory      0x40114000  0x40114FFF  W
+Memory = TMR5                    Memory      0x40115000  0x40115FFF  W
+Memory = TRNG                    Memory      0x4004D000  0x4004DFFF  W
+Memory = UART                    Memory      0x40042000  0x40042FFF  W
+Memory = UART1                   Memory      0x40043000  0x40043FFF  W
+Memory = UART2                   Memory      0x40044000  0x40044FFF  W
+Memory = UART3                   Memory      0x40145000  0x40145FFF  W
+Memory = USBHS                   Memory      0x400B1000  0x400B1FFF  W
+Memory = WDT                     Memory      0x40003000  0x400033FF  W
+Memory = WDT1                    Memory      0x40003400  0x400037FF  W
+Memory = WUT                     Memory      0x40006400  0x400067FF  W
+Memory = PPB                     Memory      0xE0000000  0xE00FFFFF  W
+
+TrustedRanges = true
+UseSfrFilter = true
+
+[SfrInclude]
+File = max32690.svd

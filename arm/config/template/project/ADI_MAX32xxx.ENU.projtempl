@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<templategroup>
+  <description>ADI MAX32xxx project templates</description>
+  <displayname>AnalogDevices</displayname>
+</templategroup>

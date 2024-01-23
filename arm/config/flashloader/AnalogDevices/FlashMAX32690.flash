@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<flash_device>
+  <exe>$TOOLKIT_DIR$\config\flashloader\AnalogDevices\FlashMAX32690.out</exe>
+  <flash_base>0x10000000</flash_base> 
+  <page>16</page>  
+  <block>192 0x4000</block>
+  <block>32 0x2000</block>
+
+  <aggregate>1</aggregate>
+  <args_doc>The "--div" argument can by used to set the flash controller divider.
+The value of the flash controller divider is used to generate a 1 microsecond width pulse from the system clock source.
+This pulse is used when performing write or erase operations on the flash memory. This field should be set to
+the system clock source frequency in MHz (or as close as possible) for example, if the system clock is running at
+120MHz, this field should be set to 120.</args_doc>
+</flash_device>

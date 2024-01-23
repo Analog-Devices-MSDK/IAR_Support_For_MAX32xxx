@@ -2242,12 +2242,9 @@
         <name>Libraries</name>
         <group>
             <name>Boards</name>
-            <group>
-                <name>EvKit_V1</name>
-                <file>
-                    <name>$MSDK_PATH$\Libraries\Boards\MAX32690\EvKit_V1\Source\board.c</name>
-                </file>
-            </group>
+            <file>
+                <name>$MSDK_PATH$\Libraries\Boards\MAX32690\$MSDK_BOARD$\Source\board.c</name>
+            </file>
         </group>
         <group>
             <name>MAXUSB</name>

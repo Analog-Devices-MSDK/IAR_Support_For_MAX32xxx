@@ -12,6 +12,10 @@ To add these files to your IAR Embedded Workbench installation, follow these ste
 7. Set the **Name** of the variable to **MSDK_PATH**.
 8. Set the **Value** of the variable to the location where you cloned the MSDK repository in Step 2.
 9. Select **OK** to add the variable.
-10. Select **OK** to dismiss the *Configure Custom Arguments Variables* window.
+10. Select **Add Variable...**
+11. Set the **Name** of the variable to **MSDK_BOARD**.
+12. Set the **Value** of the variable to match the type of board for which you will be building projects. The value should match one of the folders found in the Libraries/Boards/<Part_Name> folders of the MSDK repository.  See the [Board Support Packages documentation](https://analog-devices-msdk.github.io/msdk/USERGUIDE/#board-support-packages) for more details.
+13. Select **OK** to add the variable.
+14. Select **OK** to dismiss the *Configure Custom Arguments Variables* window.
 
 Support for Analog Devices' line of MAX32xxx microcontrollers will now be available in your IAR Embedded Workbench installation.

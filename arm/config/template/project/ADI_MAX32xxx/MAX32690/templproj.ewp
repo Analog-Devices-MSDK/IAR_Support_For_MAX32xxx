@@ -350,48 +350,48 @@
                 </option>
                 <option>
                     <name>CCIncludePath2</name>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Include\MAX32690</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\ADC</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\CAN</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\CTB</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\DMA</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\EMCC</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\FLC</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\GPIO</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\HPB</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\I2C</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\I2S</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\ICC</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\LP</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\LPCMP</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\SYS</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\OWM</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\PT</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\RTC</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\SEMA</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\SPI</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\SPIXF</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\SPIXR</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\TMR</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\TRNG</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\UART</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\WDT</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\WUT</state>
-                    <state>$MSDK_PATH$\Libraries\CMSIS\Device\Maxim\MAX32690\Include</state>
-                    <state>$MSDK_PATH$\Libraries\CMSIS\5.9.0\Core\Include</state>
-                    <state>$MSDK_PATH$\Libraries\Boards\MAX32690\EvKit_V1\Include</state>
-                    <state>$MSDK_PATH$\Libraries\MiscDrivers\</state>
-                    <state>$MSDK_PATH$\Libraries\MiscDrivers\LED</state>
-                    <state>$MSDK_PATH$\Libraries\MiscDrivers\PushButton</state>
-                    <state>$MSDK_PATH$\Libraries\MiscDrivers\ExtMemory</state>
-                    <state>$MSDK_PATH$\Libraries\MiscDrivers\Display</state>
-                    <state>$MSDK_PATH$\Libraries\MiscDrivers\Display\fonts</state>
-                    <state>$MSDK_PATH$\Libraries\MAXUSB\include</state>
-                    <state>$MSDK_PATH$\Libraries\MAXUSB\include\core</state>
-                    <state>$MSDK_PATH$\Libraries\MAXUSB\include\core\musbhsfc</state>
-                    <state>$MSDK_PATH$\Libraries\MAXUSB\include\enumerate</state>
-                    <state>$MSDK_PATH$\Libraries\MAXUSB\include\devclass</state>
-                    <state>$MSDK_PATH$\Libraries\MAXUSB\include\dbg_log</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Include\MAX32690</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\ADC</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\CAN</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\CTB</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\DMA</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\EMCC</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\FLC</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\GPIO</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\HPB</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\I2C</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\I2S</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\ICC</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\LP</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\LPCMP</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\SYS</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\OWM</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\PT</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\RTC</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\SEMA</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\SPI</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\SPIXF</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\SPIXR</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\TMR</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\TRNG</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\UART</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\WDT</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\WUT</state>
+                    <state>$_MSDK_DIR_$\Libraries\CMSIS\Device\Maxim\MAX32690\Include</state>
+                    <state>$_MSDK_DIR_$\Libraries\CMSIS\5.9.0\Core\Include</state>
+                    <state>$_MSDK_DIR_$\Libraries\Boards\MAX32690\$_MSDK_BOARD_$\Include</state>
+                    <state>$_MSDK_DIR_$\Libraries\MiscDrivers\</state>
+                    <state>$_MSDK_DIR_$\Libraries\MiscDrivers\LED</state>
+                    <state>$_MSDK_DIR_$\Libraries\MiscDrivers\PushButton</state>
+                    <state>$_MSDK_DIR_$\Libraries\MiscDrivers\ExtMemory</state>
+                    <state>$_MSDK_DIR_$\Libraries\MiscDrivers\Display</state>
+                    <state>$_MSDK_DIR_$\Libraries\MiscDrivers\Display\fonts</state>
+                    <state>$_MSDK_DIR_$\Libraries\MAXUSB\include</state>
+                    <state>$_MSDK_DIR_$\Libraries\MAXUSB\include\core</state>
+                    <state>$_MSDK_DIR_$\Libraries\MAXUSB\include\core\musbhsfc</state>
+                    <state>$_MSDK_DIR_$\Libraries\MAXUSB\include\enumerate</state>
+                    <state>$_MSDK_DIR_$\Libraries\MAXUSB\include\devclass</state>
+                    <state>$_MSDK_DIR_$\Libraries\MAXUSB\include\dbg_log</state>
                 </option>
                 <option>
                     <name>CCStdIncCheck</name>
@@ -1469,48 +1469,48 @@
                 </option>
                 <option>
                     <name>CCIncludePath2</name>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Include\MAX32690</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\ADC</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\CAN</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\CTB</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\DMA</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\EMCC</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\FLC</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\GPIO</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\HPB</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\I2C</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\I2S</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\ICC</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\LP</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\LPCMP</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\SYS</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\OWM</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\PT</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\RTC</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\SEMA</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\SPI</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\SPIXF</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\SPIXR</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\TMR</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\TRNG</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\UART</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\WDT</state>
-                    <state>$MSDK_PATH$\Libraries\PeriphDrivers\Source\WUT</state>
-                    <state>$MSDK_PATH$\Libraries\CMSIS\Device\Maxim\MAX32690\Include</state>
-                    <state>$MSDK_PATH$\Libraries\CMSIS\5.9.0\Core\Include</state>
-                    <state>$MSDK_PATH$\Libraries\Boards\MAX32690\EvKit_V1\Include</state>
-                    <state>$MSDK_PATH$\Libraries\MiscDrivers\</state>
-                    <state>$MSDK_PATH$\Libraries\MiscDrivers\LED</state>
-                    <state>$MSDK_PATH$\Libraries\MiscDrivers\PushButton</state>
-                    <state>$MSDK_PATH$\Libraries\MiscDrivers\ExtMemory</state>
-                    <state>$MSDK_PATH$\Libraries\MiscDrivers\Display</state>
-                    <state>$MSDK_PATH$\Libraries\MiscDrivers\Display\fonts</state>
-                    <state>$MSDK_PATH$\Libraries\MAXUSB\include</state>
-                    <state>$MSDK_PATH$\Libraries\MAXUSB\include\core</state>
-                    <state>$MSDK_PATH$\Libraries\MAXUSB\include\core\musbhsfc</state>
-                    <state>$MSDK_PATH$\Libraries\MAXUSB\include\enumerate</state>
-                    <state>$MSDK_PATH$\Libraries\MAXUSB\include\devclass</state>
-                    <state>$MSDK_PATH$\Libraries\MAXUSB\include\dbg_log</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Include\MAX32690</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\ADC</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\CAN</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\CTB</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\DMA</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\EMCC</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\FLC</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\GPIO</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\HPB</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\I2C</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\I2S</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\ICC</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\LP</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\LPCMP</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\SYS</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\OWM</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\PT</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\RTC</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\SEMA</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\SPI</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\SPIXF</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\SPIXR</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\TMR</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\TRNG</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\UART</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\WDT</state>
+                    <state>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\WUT</state>
+                    <state>$_MSDK_DIR_$\Libraries\CMSIS\Device\Maxim\MAX32690\Include</state>
+                    <state>$_MSDK_DIR_$\Libraries\CMSIS\5.9.0\Core\Include</state>
+                    <state>$_MSDK_DIR_$\Libraries\Boards\MAX32690\$_MSDK_BOARD_$\Include</state>
+                    <state>$_MSDK_DIR_$\Libraries\MiscDrivers\</state>
+                    <state>$_MSDK_DIR_$\Libraries\MiscDrivers\LED</state>
+                    <state>$_MSDK_DIR_$\Libraries\MiscDrivers\PushButton</state>
+                    <state>$_MSDK_DIR_$\Libraries\MiscDrivers\ExtMemory</state>
+                    <state>$_MSDK_DIR_$\Libraries\MiscDrivers\Display</state>
+                    <state>$_MSDK_DIR_$\Libraries\MiscDrivers\Display\fonts</state>
+                    <state>$_MSDK_DIR_$\Libraries\MAXUSB\include</state>
+                    <state>$_MSDK_DIR_$\Libraries\MAXUSB\include\core</state>
+                    <state>$_MSDK_DIR_$\Libraries\MAXUSB\include\core\musbhsfc</state>
+                    <state>$_MSDK_DIR_$\Libraries\MAXUSB\include\enumerate</state>
+                    <state>$_MSDK_DIR_$\Libraries\MAXUSB\include\devclass</state>
+                    <state>$_MSDK_DIR_$\Libraries\MAXUSB\include\dbg_log</state>
                 </option>
                 <option>
                     <name>CCStdIncCheck</name>
@@ -2243,37 +2243,37 @@
         <group>
             <name>Boards</name>
             <file>
-                <name>$MSDK_PATH$\Libraries\Boards\MAX32690\$MSDK_BOARD$\Source\board.c</name>
+                <name>$_MSDK_DIR_$\Libraries\Boards\MAX32690\$_MSDK_BOARD_$\Source\board.c</name>
             </file>
         </group>
         <group>
             <name>MAXUSB</name>
             <file>
-                <name>$MSDK_PATH$\Libraries\MAXUSB\src\devclass\ccid.c</name>
+                <name>$_MSDK_DIR_$\Libraries\MAXUSB\src\devclass\ccid.c</name>
             </file>
             <file>
-                <name>$MSDK_PATH$\Libraries\MAXUSB\src\devclass\cdc_acm.c</name>
+                <name>$_MSDK_DIR_$\Libraries\MAXUSB\src\devclass\cdc_acm.c</name>
             </file>
             <file>
-                <name>$MSDK_PATH$\Libraries\MAXUSB\src\enumerate\enumerate.c</name>
+                <name>$_MSDK_DIR_$\Libraries\MAXUSB\src\enumerate\enumerate.c</name>
             </file>
             <file>
-                <name>$MSDK_PATH$\Libraries\MAXUSB\src\devclass\fifo.c</name>
+                <name>$_MSDK_DIR_$\Libraries\MAXUSB\src\devclass\fifo.c</name>
             </file>
             <file>
-                <name>$MSDK_PATH$\Libraries\MAXUSB\src\devclass\hid_kbd.c</name>
+                <name>$_MSDK_DIR_$\Libraries\MAXUSB\src\devclass\hid_kbd.c</name>
             </file>
             <file>
-                <name>$MSDK_PATH$\Libraries\MAXUSB\src\devclass\hid_raw.c</name>
+                <name>$_MSDK_DIR_$\Libraries\MAXUSB\src\devclass\hid_raw.c</name>
             </file>
             <file>
-                <name>$MSDK_PATH$\Libraries\MAXUSB\src\devclass\msc.c</name>
+                <name>$_MSDK_DIR_$\Libraries\MAXUSB\src\devclass\msc.c</name>
             </file>
             <file>
-                <name>$MSDK_PATH$\Libraries\MAXUSB\src\core\musbhsfc\usb.c</name>
+                <name>$_MSDK_DIR_$\Libraries\MAXUSB\src\core\musbhsfc\usb.c</name>
             </file>
             <file>
-                <name>$MSDK_PATH$\Libraries\MAXUSB\src\core\usb_event.c</name>
+                <name>$_MSDK_DIR_$\Libraries\MAXUSB\src\core\usb_event.c</name>
             </file>
         </group>
         <group>
@@ -2283,246 +2283,246 @@
                 <group>
                     <name>Fonts</name>
                     <file>
-                        <name>$MSDK_PATH$\Libraries\MiscDrivers\Display\fonts\LiberationSans12x12.c</name>
+                        <name>$_MSDK_DIR_$\Libraries\MiscDrivers\Display\fonts\LiberationSans12x12.c</name>
                     </file>
                     <file>
-                        <name>$MSDK_PATH$\Libraries\MiscDrivers\Display\fonts\LiberationSans16x16.c</name>
+                        <name>$_MSDK_DIR_$\Libraries\MiscDrivers\Display\fonts\LiberationSans16x16.c</name>
                     </file>
                     <file>
-                        <name>$MSDK_PATH$\Libraries\MiscDrivers\Display\fonts\LiberationSans19x19.c</name>
+                        <name>$_MSDK_DIR_$\Libraries\MiscDrivers\Display\fonts\LiberationSans19x19.c</name>
                     </file>
                     <file>
-                        <name>$MSDK_PATH$\Libraries\MiscDrivers\Display\fonts\LiberationSans24x24.c</name>
+                        <name>$_MSDK_DIR_$\Libraries\MiscDrivers\Display\fonts\LiberationSans24x24.c</name>
                     </file>
                     <file>
-                        <name>$MSDK_PATH$\Libraries\MiscDrivers\Display\fonts\LiberationSans28x28.c</name>
+                        <name>$_MSDK_DIR_$\Libraries\MiscDrivers\Display\fonts\LiberationSans28x28.c</name>
                     </file>
                 </group>
                 <file>
-                    <name>$MSDK_PATH$\Libraries\MiscDrivers\Display\tft_st7735.c</name>
+                    <name>$_MSDK_DIR_$\Libraries\MiscDrivers\Display\tft_st7735.c</name>
                 </file>
             </group>
             <group>
                 <name>ExtMemory</name>
                 <file>
-                    <name>$MSDK_PATH$\Libraries\MiscDrivers\ExtMemory\mx25.c</name>
+                    <name>$_MSDK_DIR_$\Libraries\MiscDrivers\ExtMemory\mx25.c</name>
                 </file>
             </group>
             <group>
                 <name>LED</name>
                 <file>
-                    <name>$MSDK_PATH$\Libraries\MiscDrivers\LED\led.c</name>
+                    <name>$_MSDK_DIR_$\Libraries\MiscDrivers\LED\led.c</name>
                 </file>
             </group>
             <group>
                 <name>PushButton</name>
                 <file>
-                    <name>$MSDK_PATH$\Libraries\MiscDrivers\PushButton\pb.c</name>
+                    <name>$_MSDK_DIR_$\Libraries\MiscDrivers\PushButton\pb.c</name>
                 </file>
             </group>
             <file>
-                <name>$MSDK_PATH$\Libraries\MiscDrivers\stdio.c</name>
+                <name>$_MSDK_DIR_$\Libraries\MiscDrivers\stdio.c</name>
             </file>
         </group>
         <group>
         <name>PeriphDrivers</name>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\ADC\adc_me18.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\ADC\adc_me18.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\ADC\adc_revb.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\ADC\adc_revb.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\CAN\can_me18.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\CAN\can_me18.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\CAN\can_reva.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\CAN\can_reva.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\CTB\ctb_common.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\CTB\ctb_common.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\CTB\ctb_me18.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\CTB\ctb_me18.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\CTB\ctb_reva.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\CTB\ctb_reva.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\DMA\dma_me18.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\DMA\dma_me18.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\DMA\dma_reva.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\DMA\dma_reva.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\EMCC\emcc_me18.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\EMCC\emcc_me18.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\EMCC\emcc_reva.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\EMCC\emcc_reva.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\FLC\flc_common.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\FLC\flc_common.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\FLC\flc_me18.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\FLC\flc_me18.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\FLC\flc_reva.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\FLC\flc_reva.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\GPIO\gpio_common.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\GPIO\gpio_common.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\GPIO\gpio_me18.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\GPIO\gpio_me18.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\GPIO\gpio_reva.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\GPIO\gpio_reva.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\HPB\hpb_me18.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\HPB\hpb_me18.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\HPB\hpb_reva.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\HPB\hpb_reva.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\I2C\i2c_me18.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\I2C\i2c_me18.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\I2C\i2c_reva.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\I2C\i2c_reva.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\I2S\i2s_me18.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\I2S\i2s_me18.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\I2S\i2s_reva.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\I2S\i2s_reva.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\ICC\icc_me18.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\ICC\icc_me18.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\ICC\icc_reva.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\ICC\icc_reva.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\LP\lp_me18.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\LP\lp_me18.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\LPCMP\lpcmp_me18.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\LPCMP\lpcmp_me18.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\LPCMP\lpcmp_reva.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\LPCMP\lpcmp_reva.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\SYS\mxc_assert.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\SYS\mxc_assert.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\SYS\mxc_delay.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\SYS\mxc_delay.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\SYS\mxc_lock.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\SYS\mxc_lock.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\SYS\nvic_table.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\SYS\nvic_table.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\OWM\owm_me18.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\OWM\owm_me18.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\OWM\owm_reva.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\OWM\owm_reva.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\SYS\pins_me18.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\SYS\pins_me18.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\PT\pt_me18.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\PT\pt_me18.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\PT\pt_reva.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\PT\pt_reva.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\RTC\rtc_me18.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\RTC\rtc_me18.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\RTC\rtc_reva.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\RTC\rtc_reva.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\SEMA\sema_me18.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\SEMA\sema_me18.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\SEMA\sema_reva.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\SEMA\sema_reva.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\SPI\spi_me18.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\SPI\spi_me18.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\SPI\spi_reva1.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\SPI\spi_reva1.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\SPIXF\spixf_me18.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\SPIXF\spixf_me18.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\SPIXF\spixf_reva.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\SPIXF\spixf_reva.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\SPIXR\spixr_me18.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\SPIXR\spixr_me18.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\SPIXR\spixr_reva.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\SPIXR\spixr_reva.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\SYS\sys_me18.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\SYS\sys_me18.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\TMR\tmr_common.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\TMR\tmr_common.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\TMR\tmr_me18.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\TMR\tmr_me18.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\TMR\tmr_revb.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\TMR\tmr_revb.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\TRNG\trng_me18.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\TRNG\trng_me18.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\TRNG\trng_revb.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\TRNG\trng_revb.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\UART\uart_common.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\UART\uart_common.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\UART\uart_me18.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\UART\uart_me18.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\UART\uart_revb.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\UART\uart_revb.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\WDT\wdt_common.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\WDT\wdt_common.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\WDT\wdt_me18.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\WDT\wdt_me18.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\WDT\wdt_revb.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\WDT\wdt_revb.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\WUT\wut_me18.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\WUT\wut_me18.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\PeriphDrivers\Source\WUT\wut_reva.c</name>
+            <name>$_MSDK_DIR_$\Libraries\PeriphDrivers\Source\WUT\wut_reva.c</name>
         </file>
     </group>
     <group>
         <name>Startup</name>
         <file>
-            <name>$MSDK_PATH$\Libraries\CMSIS\Device\Maxim\MAX32690\Source\IAR\cmain.s</name>
+            <name>$_MSDK_DIR_$\Libraries\CMSIS\Device\Maxim\MAX32690\Source\IAR\cmain.s</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\CMSIS\Device\Maxim\MAX32690\Source\IAR\low_level_init.c</name>
+            <name>$_MSDK_DIR_$\Libraries\CMSIS\Device\Maxim\MAX32690\Source\IAR\low_level_init.c</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\CMSIS\Device\Maxim\MAX32690\Source\IAR\startup_max32690.s</name>
+            <name>$_MSDK_DIR_$\Libraries\CMSIS\Device\Maxim\MAX32690\Source\IAR\startup_max32690.s</name>
         </file>
         <file>
-            <name>$MSDK_PATH$\Libraries\CMSIS\Device\Maxim\MAX32690\Source\system_max32690.c</name>
+            <name>$_MSDK_DIR_$\Libraries\CMSIS\Device\Maxim\MAX32690\Source\system_max32690.c</name>
         </file>
         </group>
     </group>

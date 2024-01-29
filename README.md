@@ -20,3 +20,6 @@ To add these files to your IAR Embedded Workbench installation, follow these ste
 15. Select **OK** to dismiss the *Configure Custom Arguments Variables* window.
 
 Support for Analog Devices' line of MAX32xxx microcontrollers will now be available in your IAR Embedded Workbench installation.  You will need to add the **_MSDK_BOARD_** variable (steps 4 through 9) for each new workspace you create.  
+
+## Devices Currently Supported
+* MAX32690

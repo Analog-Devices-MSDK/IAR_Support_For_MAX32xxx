@@ -1,0 +1,31 @@
+[FILEFORMAT]
+rev=1.6
+
+[CHIP]
+name=MAX32675
+endiansupport=le
+thumbsupport=true
+armsupport=false
+fpu=VFPv4_sp
+
+trustzone=false
+SIMD=false
+JTAG=false
+SWD=true
+CJTAG=false
+SWO_clock=120.0
+
+[EMUPARAMS]
+
+[CORE]
+name=Cortex-M4
+
+[DDF FILE]
+name=AnalogDevices/MAX32675.ddf
+
+[LINKER FILE]
+name=$TOOLKIT_DIR$/config/linker/AnalogDevices/MAX32675.icf
+
+[FLASH LOADER]
+little=$TOOLKIT_DIR$/config/flashloader/AnalogDevices/FlashMAX32675.board
+

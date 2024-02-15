@@ -1,0 +1,55 @@
+;; Memory information ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; 
+;; Used to define address zones within the ARM address space (Memory). 
+;;
+;;   Name      MAX32675.ddf file
+;;   AdrSpace  must be Memory
+;;   StartAdr  start of memory block
+;;   EndAdr    end of memory block
+;;   AccType   type of access, read-only (R), read-write (RW) or SFR (W)
+
+[Memory]
+;;       Name                  AdrSpace    StartAdr    EndAdr      AccType   Width
+Memory = IROM1                   Memory   0x10000000  0x1005FFFF  R
+Memory = IRAM1                   Memory   0x20000000  0x20027FFF  RW    
+Memory = GCR                     Memory   0x40000000  0x400003FD  RW
+Memory = SIR                     Memory   0x40000400  0x400007FD  RW
+Memory = FCR                     Memory   0x40000800  0x40000BFD  RW
+Memory = WDT0                    Memory   0x40003000  0x400033FD  RW
+Memory = WDT1                    Memory   0x40003400  0x40004BFD  RW
+Memory = RTC                     Memory   0x40106000  0x401063FD  RW
+Memory = PWRSEQ                  Memory   0x40106800  0x40106BFD  RW
+Memory = MCR                     Memory   0x40106C00  0x40106FFD  RW
+Memory = ECC                     Memory   0x40105400  0x401057FD  RW
+Memory = GPIO0                   Memory   0x40008000  0x40008FFD  RW
+Memory = GPIO1                   Memory   0x40009000  0x40009FFD  RW
+Memory = TMR0                    Memory   0x40010000  0x40010FFD  RW
+Memory = TMR1                    Memory   0x40011000  0x40011FFD  RW
+Memory = TMR2                    Memory   0x40012000  0x40012FFD  RW
+Memory = TMR3                    Memory   0x40013000  0x40013FFD  RW
+Memory = TMR4                    Memory   0x40114000  0x40114FFD  RW
+Memory = TMR5                    Memory   0x40115000  0x40115FFD  RW
+Memory = I2C0                    Memory   0x4001D000  0x4001DFFD  RW
+Memory = I2C1                    Memory   0x4001E000  0x4001EFFD  RW
+Memory = I2C2                    Memory   0x4001F000  0x4001FFFD  RW
+Memory = DMA                     Memory   0x40028000  0x40028FFD  RW
+Memory = FLC0                    Memory   0x40029000  0x400293FD  RW
+Memory = ICC                     Memory   0x4002A000  0x4002A3FD  RW
+Memory = UART0                   Memory   0x40042000  0x40042FFD  RW
+Memory = UART1                   Memory   0x40043000  0x40043FFD  RW
+Memory = UART2                   Memory   0x40044000  0x40044FFD  RW
+Memory = UART3                   Memory   0x40145000  0x40145FFD  RW
+Memory = SPI0                    Memory   0x40046000  0x40046FFD  RW
+Memory = SPI1                    Memory   0x40047000  0x40047FFD  RW
+Memory = SPI2                    Memory   0x40048000  0x4004CFFD  RW
+Memory = TRNG                    Memory   0x4004D000  0x4004DFFD  RW
+Memory = AES                     Memory   0x40007400  0x40007BFD  RW
+Memory = CRC                     Memory   0x4000F000  0x4000FFFD  RW
+Memory = I2S                     Memory   0x40060000  0x40060FFD  RW
+Memory = BBFC                    Memory   0x40005800  0x40007000  RW
+
+TrustedRanges = true
+UseSfrFilter = true
+
+[SfrInclude]
+File = max32675.svd

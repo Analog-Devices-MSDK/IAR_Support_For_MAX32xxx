@@ -4,7 +4,7 @@ The repository holds all the files necessary to add device specific support into
 To add these files to your IAR Embedded Workbench installation, follow these steps:
 
 1. Clone this repository and copy the contents to your IAR installation folder  (The default installation location is C:\Program Files\IAR Systems\Embedded Workbench x.x)
-2. Clone the [MSDK repository](https://github.com/Analog-Devices-MSDK/msdk)
+2. Clone the [MSDK repository](https://github.com/analogdevicesinc/msdk)
 3. Open IAR Embedded Workbench
 4. Create/Open a workspace within IAR
 5. Select **Configure Custom Argument Variables...** from the **Tools** menu
@@ -14,7 +14,7 @@ To add these files to your IAR Embedded Workbench installation, follow these ste
 9. Click the **OK** button to add the group
 10. Click on the **Add Variable...** button
 11. Set the **Name** of the variable to **`_MSDK_BOARD_`**
-12. Set the **Value** of the variable to match the type of board for which you will be building projects. (Use **EvKit_V1** if uncertain.) The value should match one of the folders found in the _Libraries/Boards/<Part_Name>_ folders of the MSDK repository.  See the [Board Support Packages documentation](https://analog-devices-msdk.github.io/msdk/USERGUIDE/#board-support-packages) for more details.
+12. Set the **Value** of the variable to match the type of board for which you will be building projects. (Use **EvKit_V1** if uncertain.) The value should match one of the folders found in the _Libraries/Boards/<Part_Name>_ folders of the MSDK repository.  See the [Board Support Packages documentation](https://analogdevicesinc.github.io/msdk/USERGUIDE/#board-support-packages) for more details.
 13. Click the **OK** button to add the variable
 14. Select the **Global** tab
 15. Click on the **New Group...** button
